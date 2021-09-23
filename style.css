@@ -1,0 +1,10 @@
+body{
+    background-image: url("Grass.jpg");
+}
+
+#myCanvas
+{
+    border-width:10px;
+    background-color :green;
+    border-style:ridge;
+}
